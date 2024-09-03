@@ -12,7 +12,7 @@ const page = () => {
               jinnah park tehsil & district rahim yar khan <div className=""></div>
               <div className=""></div>
             </p>
-          </blockquote>
+            </blockquote>  
           <figcaption className="font-medium">
             <div className="text-sky-500 dark:text-sky-400">
               Naveed Sarwar dogar
