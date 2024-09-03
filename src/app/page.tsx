@@ -7,8 +7,7 @@ const page = () => {
     <div className="pt-6 text-center space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-        My name is Naveed sarwar dogar.i am working in govt sector.
-        i am very intrested in artifical inteligenc.
+        My name is Naveed sarwar dogar.i am working in govt sector.i am very intrested in artifical inteligenc.
         Thats why i joind Generative Ai course under the supervision of Sir, sabzal shaheen and our amazing teacher Mr, mian Asif langrah. both persons are so helpful and kind persons.
         We learn lot of things from both of them.
         </p>
