@@ -8,7 +8,7 @@ const page = () => {
           <blockquote>
             <p className="text-lg font-medium">
               For Contact pls dial 
-              03136564257 - Email Naveeddewandogar@gmail.com
+              03136564257- Email Naveeddewandogar@gmail.com
             </p>
           </blockquote>
           <figcaption className="font-medium">

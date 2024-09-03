@@ -7,7 +7,7 @@ const page = () => {
         <div className="pt-6 text-center space-y-4">
           <blockquote>
             <p className="text-lg font-medium">
-              House number 2457 street number 17.jinnah park tehsil & district rahim yar khan <div className=""></div>
+              House number 2457 street number 17.jinnah park tehsil & district rahim yar khan. <div className=""></div>
               <div className=""></div>
             </p>
             </blockquote>  
